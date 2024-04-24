@@ -1,2 +1,2 @@
 # Login-Form
-A Long form by LMS
+A Longin form by LMS
